@@ -1,0 +1,7 @@
+{
+  "embed_model": "all-MiniLM-L6-v2",
+  "llm_model": "gpt-4o-mini",
+  "top_k": 4,
+  "chunk_size": 600,
+  "chunk_overlap": 120
+}
